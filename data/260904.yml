@@ -7,7 +7,7 @@ about:
   head: dc46674
   archived: false
   latestVersion: v0.15.0-rc.1
-  collectedAt: 2026-09-04T19:44:02Z
+  collectedAt: 2026-09-04T20:51:50Z
 timeline:
   created: 2020-04-15
   lastCommit: 2025-02-20
@@ -83,6 +83,54 @@ total:
   openIssue: 73
   commit: 430
 ---
+path: /home/runner/.x-repo/github.com/mifi/editly
+collectedAt: 2026-09-04T20:51:51Z
+loc:
+  TypeScript:
+    code: 3289
+    comments: 753
+    blanks: 683
+    files: 42
+  JavaScript:
+    code: 222
+    comments: 45
+    blanks: 65
+    files: 2
+  Json:
+    code: 87
+    comments: 0
+    blanks: 1
+    files: 2
+  Dockerfile:
+    code: 44
+    comments: 10
+    blanks: 14
+    files: 1
+  Bash:
+    code: 14
+    comments: 4
+    blanks: 2
+    files: 1
+  Glsl:
+    code: 12
+    comments: 0
+    blanks: 4
+    files: 1
+  Yaml:
+    code: 12
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 385
+    blanks: 168
+    files: 2
+total:
+  code: 3696
+  comments: 1197
+  blanks: 938
+  files: 52
 ---
 date: "2026-08-24"
 repo:
