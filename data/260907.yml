@@ -5,7 +5,7 @@ about:
   head: dc46674
   archived: false
   latestVersion: "v0.15.0-rc.1"
-  collectedAt: 2026-09-07T05:53:05Z
+  collectedAt: 2026-09-07T18:43:33Z
 timeline:
   created: 2020-04-15
   lastCommit: 2025-02-20
@@ -82,7 +82,7 @@ total:
   commit: 430
 ---
 path: /home/runner/.x-repo/github.com/mifi/editly
-collectedAt: 2026-09-07T05:53:05Z
+collectedAt: 2026-09-07T18:43:34Z
 loc:
   TypeScript:
     code: 3289
@@ -243,7 +243,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:53:06+00:00
+  collectedAt: 2026-09-07T18:43:34+00:00
   platform:
     darwin/arm64:
       name:  null
