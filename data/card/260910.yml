@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.0-rc.1"
   latestRelease: "v0.15.0-rc.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:56:42Z
+  collectedAt: 2026-09-10T17:48:06Z
 timeline:
   created: 2020-04-15
   lastCommit: 2025-02-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-01-19
   lastPrerelease: 
 popularity:
-  star: 5486
+  star: 5487
   watcher: 60
   fork: 371
   release: 26
@@ -86,7 +86,7 @@ total:
   commit: 430
 ---
 path: /home/runner/.x-repo/github.com/mifi/editly
-collectedAt: 2026-09-10T05:56:42Z
+collectedAt: 2026-09-10T17:48:07Z
 loc:
   TypeScript:
     code: 3289
