@@ -1,24 +1,73 @@
 # editly
 
+[中文版本](./README.cn.md)
+
 Slick, declarative command line video editing & API
 
-- **Upstream**: <https://github.com/mifi/editly>
-- **Homepage**: <>
-- **Latest release**: `v0.15.0-rc.1` (2025-01-19)
-- **Last commit**: 2025-02-20
-- **License**: MIT
-- **Stars**: 5486 · **Forks**: 371 · **Open issues**: 222 · **Contributors**: 17
+![editly](https://repo.x-cmd.io/editly.svg)
 
-## Installation
+## Install
 
 ```sh
 x install editly
 ```
 
-See <https://x-cmd.com/install/editly> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/mifi/editly>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T20:31:49Z._
+- **Latest**: `v0.15.0-rc.1` (2025-01-19)
+- **Last commit**: 2025-02-20
+- **Published**: 2025-01-19T15:06:09Z
+
+## Popularity
+
+- **Stars**: 5,486 · **Forks**: 371 · **Open issues**: 222 · **Contributors**: 17
+
+## Totals (cumulative)
+
+- **Releases**: 26 · **Merged PRs**: 60 · **Open PRs**: 7 · **Closed issues**: 149 · **Open issues**: 73 · **Commits**: 430
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 1 | 3 | 0 |
+
+## Code size
+
+Total: **3,680** lines of code across **48** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 3,289 | 753 | 683 | 42 |
+| JavaScript | 222 | 45 | 65 | 2 |
+| Json | 87 | 0 | 1 | 2 |
+| Dockerfile | 44 | 10 | 14 | 1 |
+| Bash | 14 | 4 | 2 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
+## Improve this data
+
+Install metadata for editly lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `editly` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/editly.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:56:46Z._
